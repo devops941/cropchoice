@@ -1,0 +1,6 @@
+crop_name,region,season,cost_per_ha,expected_yield_t_ha,msp_per_quintal,year,notes
+Rice,South India,kharif,42000,4.5,2300,2025,"CACP State Benchmark"
+Maize,South India,kharif,32000,4.8,2225,2025,"University Package of Practices"
+Groundnut,South India,kharif,38000,2.2,6783,2025,"Kharif Oilseeds Scheme"
+Cotton,South India,kharif,48000,2.0,7121,2025,"Bt Cotton Cost Study"
+Tomato,South India,kharif,55000,25.0,0,2025,"Vegetable Production Manual"

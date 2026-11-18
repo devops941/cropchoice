@@ -1,0 +1,12 @@
+crop_name,market,month,modal_price_per_quintal,source
+Rice,APMC Central,2024-01,2350,Agmarknet
+Rice,APMC Central,2024-02,2380,Agmarknet
+Rice,APMC Central,2024-03,2420,Agmarknet
+Maize,APMC Central,2024-01,2150,Agmarknet
+Maize,APMC Central,2024-02,2200,Agmarknet
+Groundnut,APMC Central,2024-01,6200,Agmarknet
+Groundnut,APMC Central,2024-02,6350,Agmarknet
+Cotton,APMC Central,2024-01,7100,Agmarknet
+Cotton,APMC Central,2024-02,7250,Agmarknet
+Tomato,APMC Central,2024-01,1650,Agmarknet
+Tomato,APMC Central,2024-02,1850,Agmarknet

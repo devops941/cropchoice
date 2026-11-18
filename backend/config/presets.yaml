@@ -1,0 +1,33 @@
+presets:
+  - id: "balanced"
+    name: "Balanced Planning"
+    description: "Equal weighting across water, soil, return, and risk."
+    weights:
+      water: 0.25
+      soil: 0.25
+      return: 0.25
+      variability: 0.25
+  - id: "water_saving"
+    name: "Water-Saving & Conservation"
+    description: "Heavily penalizes high water demand crops for dryland/drought regions."
+    weights:
+      water: 0.50
+      soil: 0.20
+      return: 0.20
+      variability: 0.10
+  - id: "profit_first"
+    name: "Profit Maximization"
+    description: "Prioritizes expected net return per hectare above all else."
+    weights:
+      water: 0.10
+      soil: 0.20
+      return: 0.60
+      variability: 0.10
+  - id: "low_risk"
+    name: "Low Risk & Price Stability"
+    description: "Protects against price crashes and market volatility."
+    weights:
+      water: 0.20
+      soil: 0.20
+      return: 0.20
+      variability: 0.40

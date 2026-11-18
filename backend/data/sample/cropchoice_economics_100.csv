@@ -1,0 +1,101 @@
+crop_name,region,season,cost_per_ha,expected_yield_t_ha,msp_per_quintal,year,notes
+Rice,Tamil Nadu - Delta,kharif,44945.0,5.17,2300,2024,CACP Benchmark 2024 - State Agro Plan
+Wheat,Tamil Nadu - Kongu,rabi,31786.0,4.36,2275,2025,CACP Benchmark 2025 - State Agro Plan
+Cotton,Karnataka - North,kharif,50605.0,2.13,7020,2024,CACP Benchmark 2024 - State Agro Plan
+Maize,Karnataka - South,rabi,28569.0,4.99,2090,2025,CACP Benchmark 2025 - State Agro Plan
+Groundnut,Maharashtra - Vidarbha,kharif,35666.0,2.58,6375,2024,CACP Benchmark 2024 - State Agro Plan
+Soybean,Maharashtra - Marathwada,rabi,31060.0,2.57,4890,2025,CACP Benchmark 2025 - State Agro Plan
+Sugarcane,Andhra Pradesh - Coastal,kharif,90757.0,72.01,3150,2024,CACP Benchmark 2024 - State Agro Plan
+Sorghum (Jowar),Telangana - Central,rabi,24205.0,2.53,3180,2025,CACP Benchmark 2025 - State Agro Plan
+Pearl Millet (Bajra),Madhya Pradesh - Malwa,kharif,25517.0,2.64,2500,2024,CACP Benchmark 2024 - State Agro Plan
+Ragi (Finger Millet),Punjab - Central,rabi,28267.0,2.44,3840,2025,CACP Benchmark 2025 - State Agro Plan
+Chickpea (Gram),Haryana - Eastern,kharif,28501.0,1.97,5440,2024,CACP Benchmark 2024 - State Agro Plan
+Pigeon Pea (Tur),Tamil Nadu - Delta,rabi,33237.0,1.39,7000,2025,CACP Benchmark 2025 - State Agro Plan
+Black Gram (Urad),Tamil Nadu - Kongu,kharif,27913.0,1.14,6950,2024,CACP Benchmark 2024 - State Agro Plan
+Green Gram (Moong),Karnataka - North,rabi,29179.0,1.03,8550,2025,CACP Benchmark 2025 - State Agro Plan
+Tomato,Karnataka - South,kharif,69132.0,22.91,1800,2024,CACP Benchmark 2024 - State Agro Plan
+Onion,Maharashtra - Vidarbha,rabi,64654.0,18.16,2100,2025,CACP Benchmark 2025 - State Agro Plan
+Potato,Maharashtra - Marathwada,kharif,72325.0,22.69,1600,2024,CACP Benchmark 2024 - State Agro Plan
+Rice,Andhra Pradesh - Coastal,rabi,42870.0,4.55,2300,2025,CACP Benchmark 2025 - State Agro Plan
+Wheat,Telangana - Central,kharif,34878.0,4.59,2275,2024,CACP Benchmark 2024 - State Agro Plan
+Cotton,Madhya Pradesh - Malwa,rabi,57163.0,2.51,7020,2025,CACP Benchmark 2025 - State Agro Plan
+Maize,Punjab - Central,kharif,30999.0,4.6,2090,2024,CACP Benchmark 2024 - State Agro Plan
+Groundnut,Haryana - Eastern,rabi,35759.0,2.6,6375,2025,CACP Benchmark 2025 - State Agro Plan
+Soybean,Tamil Nadu - Delta,kharif,28742.0,2.21,4890,2024,CACP Benchmark 2024 - State Agro Plan
+Sugarcane,Tamil Nadu - Kongu,rabi,81358.0,76.91,3150,2025,CACP Benchmark 2025 - State Agro Plan
+Sorghum (Jowar),Karnataka - North,kharif,25169.0,2.55,3180,2024,CACP Benchmark 2024 - State Agro Plan
+Pearl Millet (Bajra),Karnataka - South,rabi,26158.0,2.25,2500,2025,CACP Benchmark 2025 - State Agro Plan
+Ragi (Finger Millet),Maharashtra - Vidarbha,kharif,25953.0,3.07,3840,2024,CACP Benchmark 2024 - State Agro Plan
+Chickpea (Gram),Maharashtra - Marathwada,rabi,27492.0,1.8,5440,2025,CACP Benchmark 2025 - State Agro Plan
+Pigeon Pea (Tur),Andhra Pradesh - Coastal,kharif,34273.0,1.71,7000,2024,CACP Benchmark 2024 - State Agro Plan
+Black Gram (Urad),Telangana - Central,rabi,28474.0,1.23,6950,2025,CACP Benchmark 2025 - State Agro Plan
+Green Gram (Moong),Madhya Pradesh - Malwa,kharif,26661.0,1.09,8550,2024,CACP Benchmark 2024 - State Agro Plan
+Tomato,Punjab - Central,rabi,77965.0,23.07,1800,2025,CACP Benchmark 2025 - State Agro Plan
+Onion,Haryana - Eastern,kharif,60384.0,22.45,2100,2024,CACP Benchmark 2024 - State Agro Plan
+Potato,Tamil Nadu - Delta,rabi,73917.0,22.22,1600,2025,CACP Benchmark 2025 - State Agro Plan
+Rice,Tamil Nadu - Kongu,kharif,42934.0,4.16,2300,2024,CACP Benchmark 2024 - State Agro Plan
+Wheat,Karnataka - North,rabi,32298.0,4.41,2275,2025,CACP Benchmark 2025 - State Agro Plan
+Cotton,Karnataka - South,kharif,56288.0,2.24,7020,2024,CACP Benchmark 2024 - State Agro Plan
+Maize,Maharashtra - Vidarbha,rabi,33886.0,5.48,2090,2025,CACP Benchmark 2025 - State Agro Plan
+Groundnut,Maharashtra - Marathwada,kharif,39547.0,2.45,6375,2024,CACP Benchmark 2024 - State Agro Plan
+Soybean,Andhra Pradesh - Coastal,rabi,30802.0,2.26,4890,2025,CACP Benchmark 2025 - State Agro Plan
+Sugarcane,Telangana - Central,kharif,88309.0,82.17,3150,2024,CACP Benchmark 2024 - State Agro Plan
+Sorghum (Jowar),Madhya Pradesh - Malwa,rabi,27741.0,3.15,3180,2025,CACP Benchmark 2025 - State Agro Plan
+Pearl Millet (Bajra),Punjab - Central,kharif,23024.0,2.29,2500,2024,CACP Benchmark 2024 - State Agro Plan
+Ragi (Finger Millet),Haryana - Eastern,rabi,25536.0,2.76,3840,2025,CACP Benchmark 2025 - State Agro Plan
+Chickpea (Gram),Tamil Nadu - Delta,kharif,30581.0,1.85,5440,2024,CACP Benchmark 2024 - State Agro Plan
+Pigeon Pea (Tur),Tamil Nadu - Kongu,rabi,30227.0,1.56,7000,2025,CACP Benchmark 2025 - State Agro Plan
+Black Gram (Urad),Karnataka - North,kharif,24544.0,1.32,6950,2024,CACP Benchmark 2024 - State Agro Plan
+Green Gram (Moong),Karnataka - South,rabi,29485.0,1.15,8550,2025,CACP Benchmark 2025 - State Agro Plan
+Tomato,Maharashtra - Vidarbha,kharif,67769.0,23.35,1800,2024,CACP Benchmark 2024 - State Agro Plan
+Onion,Maharashtra - Marathwada,rabi,66156.0,18.12,2100,2025,CACP Benchmark 2025 - State Agro Plan
+Potato,Andhra Pradesh - Coastal,kharif,78041.0,24.33,1600,2024,CACP Benchmark 2024 - State Agro Plan
+Rice,Telangana - Central,rabi,41278.0,4.66,2300,2025,CACP Benchmark 2025 - State Agro Plan
+Wheat,Madhya Pradesh - Malwa,kharif,33416.0,4.22,2275,2024,CACP Benchmark 2024 - State Agro Plan
+Cotton,Punjab - Central,rabi,57908.0,2.11,7020,2025,CACP Benchmark 2025 - State Agro Plan
+Maize,Haryana - Eastern,kharif,30565.0,4.99,2090,2024,CACP Benchmark 2024 - State Agro Plan
+Groundnut,Tamil Nadu - Delta,rabi,38113.0,2.89,6375,2025,CACP Benchmark 2025 - State Agro Plan
+Soybean,Tamil Nadu - Kongu,kharif,27530.0,2.7,4890,2024,CACP Benchmark 2024 - State Agro Plan
+Sugarcane,Karnataka - North,rabi,83582.0,81.28,3150,2025,CACP Benchmark 2025 - State Agro Plan
+Sorghum (Jowar),Karnataka - South,kharif,25245.0,3.03,3180,2024,CACP Benchmark 2024 - State Agro Plan
+Pearl Millet (Bajra),Maharashtra - Vidarbha,rabi,22743.0,2.32,2500,2025,CACP Benchmark 2025 - State Agro Plan
+Ragi (Finger Millet),Maharashtra - Marathwada,kharif,29668.0,3.03,3840,2024,CACP Benchmark 2024 - State Agro Plan
+Chickpea (Gram),Andhra Pradesh - Coastal,rabi,31306.0,1.94,5440,2025,CACP Benchmark 2025 - State Agro Plan
+Pigeon Pea (Tur),Telangana - Central,kharif,31847.0,1.43,7000,2024,CACP Benchmark 2024 - State Agro Plan
+Black Gram (Urad),Madhya Pradesh - Malwa,rabi,29050.0,1.38,6950,2025,CACP Benchmark 2025 - State Agro Plan
+Green Gram (Moong),Punjab - Central,kharif,26976.0,1.03,8550,2024,CACP Benchmark 2024 - State Agro Plan
+Tomato,Haryana - Eastern,rabi,77930.0,25.04,1800,2025,CACP Benchmark 2025 - State Agro Plan
+Onion,Tamil Nadu - Delta,kharif,72712.0,22.29,2100,2024,CACP Benchmark 2024 - State Agro Plan
+Potato,Tamil Nadu - Kongu,rabi,84126.0,20.76,1600,2025,CACP Benchmark 2025 - State Agro Plan
+Rice,Karnataka - North,kharif,43071.0,5.05,2300,2024,CACP Benchmark 2024 - State Agro Plan
+Wheat,Karnataka - South,rabi,37654.0,4.52,2275,2025,CACP Benchmark 2025 - State Agro Plan
+Cotton,Maharashtra - Vidarbha,kharif,51065.0,2.33,7020,2024,CACP Benchmark 2024 - State Agro Plan
+Maize,Maharashtra - Marathwada,rabi,28687.0,4.87,2090,2025,CACP Benchmark 2025 - State Agro Plan
+Groundnut,Andhra Pradesh - Coastal,kharif,38026.0,2.68,6375,2024,CACP Benchmark 2024 - State Agro Plan
+Soybean,Telangana - Central,rabi,32160.0,2.58,4890,2025,CACP Benchmark 2025 - State Agro Plan
+Sugarcane,Madhya Pradesh - Malwa,kharif,78629.0,89.58,3150,2024,CACP Benchmark 2024 - State Agro Plan
+Sorghum (Jowar),Punjab - Central,rabi,28066.0,2.96,3180,2025,CACP Benchmark 2025 - State Agro Plan
+Pearl Millet (Bajra),Haryana - Eastern,kharif,23831.0,2.49,2500,2024,CACP Benchmark 2024 - State Agro Plan
+Ragi (Finger Millet),Tamil Nadu - Delta,rabi,29576.0,2.87,3840,2025,CACP Benchmark 2025 - State Agro Plan
+Chickpea (Gram),Tamil Nadu - Kongu,kharif,28798.0,1.85,5440,2024,CACP Benchmark 2024 - State Agro Plan
+Pigeon Pea (Tur),Karnataka - North,rabi,33732.0,1.52,7000,2025,CACP Benchmark 2025 - State Agro Plan
+Black Gram (Urad),Karnataka - South,kharif,25473.0,1.17,6950,2024,CACP Benchmark 2024 - State Agro Plan
+Green Gram (Moong),Maharashtra - Vidarbha,rabi,27338.0,1.14,8550,2025,CACP Benchmark 2025 - State Agro Plan
+Tomato,Maharashtra - Marathwada,kharif,78055.0,23.0,1800,2024,CACP Benchmark 2024 - State Agro Plan
+Onion,Andhra Pradesh - Coastal,rabi,69546.0,18.72,2100,2025,CACP Benchmark 2025 - State Agro Plan
+Potato,Telangana - Central,kharif,85270.0,21.91,1600,2024,CACP Benchmark 2024 - State Agro Plan
+Rice,Madhya Pradesh - Malwa,rabi,41702.0,4.89,2300,2025,CACP Benchmark 2025 - State Agro Plan
+Wheat,Punjab - Central,kharif,36240.0,3.98,2275,2024,CACP Benchmark 2024 - State Agro Plan
+Cotton,Haryana - Eastern,rabi,54551.0,2.27,7020,2025,CACP Benchmark 2025 - State Agro Plan
+Maize,Tamil Nadu - Delta,kharif,33631.0,4.68,2090,2024,CACP Benchmark 2024 - State Agro Plan
+Groundnut,Tamil Nadu - Kongu,rabi,38515.0,2.79,6375,2025,CACP Benchmark 2025 - State Agro Plan
+Soybean,Karnataka - North,kharif,30409.0,2.24,4890,2024,CACP Benchmark 2024 - State Agro Plan
+Sugarcane,Karnataka - South,rabi,89901.0,83.76,3150,2025,CACP Benchmark 2025 - State Agro Plan
+Sorghum (Jowar),Maharashtra - Vidarbha,kharif,27189.0,2.64,3180,2024,CACP Benchmark 2024 - State Agro Plan
+Pearl Millet (Bajra),Maharashtra - Marathwada,rabi,22994.0,2.85,2500,2025,CACP Benchmark 2025 - State Agro Plan
+Ragi (Finger Millet),Andhra Pradesh - Coastal,kharif,27008.0,2.74,3840,2024,CACP Benchmark 2024 - State Agro Plan
+Chickpea (Gram),Telangana - Central,rabi,25871.0,1.68,5440,2025,CACP Benchmark 2025 - State Agro Plan
+Pigeon Pea (Tur),Madhya Pradesh - Malwa,kharif,32920.0,1.72,7000,2024,CACP Benchmark 2024 - State Agro Plan
+Black Gram (Urad),Punjab - Central,rabi,27506.0,1.2,6950,2025,CACP Benchmark 2025 - State Agro Plan
+Green Gram (Moong),Haryana - Eastern,kharif,29707.0,1.05,8550,2024,CACP Benchmark 2024 - State Agro Plan
+Tomato,Tamil Nadu - Delta,rabi,69429.0,24.54,1800,2025,CACP Benchmark 2025 - State Agro Plan

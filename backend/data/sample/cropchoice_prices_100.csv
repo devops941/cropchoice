@@ -1,0 +1,101 @@
+crop_name,market,month,modal_price_per_quintal,source
+Rice,APMC Coimbatore,2024-01,2228.0,Agmarknet APMC Live Feed
+Wheat,APMC Thanjavur,2024-02,2152.0,Agmarknet APMC Live Feed
+Cotton,APMC Madurai,2024-03,6309.0,Agmarknet APMC Live Feed
+Maize,APMC Salem,2024-04,2261.0,Agmarknet APMC Live Feed
+Groundnut,APMC Raichur,2024-05,6943.0,Agmarknet APMC Live Feed
+Soybean,APMC Nashik,2024-06,5136.0,Agmarknet APMC Live Feed
+Sugarcane,APMC Pune,2024-07,3152.0,Agmarknet APMC Live Feed
+Sorghum (Jowar),APMC Indore,2024-08,3129.0,Agmarknet APMC Live Feed
+Pearl Millet (Bajra),APMC Guntur,2024-09,2234.0,Agmarknet APMC Live Feed
+Ragi (Finger Millet),APMC Karnal,2024-10,3911.0,Agmarknet APMC Live Feed
+Chickpea (Gram),APMC Coimbatore,2024-11,5373.0,Agmarknet APMC Live Feed
+Pigeon Pea (Tur),APMC Thanjavur,2024-12,6867.0,Agmarknet APMC Live Feed
+Black Gram (Urad),APMC Madurai,2025-01,7442.0,Agmarknet APMC Live Feed
+Green Gram (Moong),APMC Salem,2025-02,9307.0,Agmarknet APMC Live Feed
+Tomato,APMC Raichur,2025-03,875.0,Agmarknet APMC Live Feed
+Onion,APMC Nashik,2025-04,2691.0,Agmarknet APMC Live Feed
+Potato,APMC Pune,2025-05,1478.0,Agmarknet APMC Live Feed
+Rice,APMC Indore,2025-06,2201.0,Agmarknet APMC Live Feed
+Wheat,APMC Guntur,2024-01,2340.0,Agmarknet APMC Live Feed
+Cotton,APMC Karnal,2024-02,7293.0,Agmarknet APMC Live Feed
+Maize,APMC Coimbatore,2024-03,1899.0,Agmarknet APMC Live Feed
+Groundnut,APMC Thanjavur,2024-04,6678.0,Agmarknet APMC Live Feed
+Soybean,APMC Madurai,2024-05,4847.0,Agmarknet APMC Live Feed
+Sugarcane,APMC Salem,2024-06,3252.0,Agmarknet APMC Live Feed
+Sorghum (Jowar),APMC Raichur,2024-07,3212.0,Agmarknet APMC Live Feed
+Pearl Millet (Bajra),APMC Nashik,2024-08,2493.0,Agmarknet APMC Live Feed
+Ragi (Finger Millet),APMC Pune,2024-09,4408.0,Agmarknet APMC Live Feed
+Chickpea (Gram),APMC Indore,2024-10,5681.0,Agmarknet APMC Live Feed
+Pigeon Pea (Tur),APMC Guntur,2024-11,6635.0,Agmarknet APMC Live Feed
+Black Gram (Urad),APMC Karnal,2024-12,7004.0,Agmarknet APMC Live Feed
+Green Gram (Moong),APMC Coimbatore,2025-01,9831.0,Agmarknet APMC Live Feed
+Tomato,APMC Thanjavur,2025-02,807.0,Agmarknet APMC Live Feed
+Onion,APMC Madurai,2025-03,2419.0,Agmarknet APMC Live Feed
+Potato,APMC Salem,2025-04,1798.0,Agmarknet APMC Live Feed
+Rice,APMC Raichur,2025-05,2249.0,Agmarknet APMC Live Feed
+Wheat,APMC Nashik,2025-06,2207.0,Agmarknet APMC Live Feed
+Cotton,APMC Pune,2024-01,7122.0,Agmarknet APMC Live Feed
+Maize,APMC Indore,2024-02,1967.0,Agmarknet APMC Live Feed
+Groundnut,APMC Guntur,2024-03,6623.0,Agmarknet APMC Live Feed
+Soybean,APMC Karnal,2024-04,4488.0,Agmarknet APMC Live Feed
+Sugarcane,APMC Coimbatore,2024-05,3196.0,Agmarknet APMC Live Feed
+Sorghum (Jowar),APMC Thanjavur,2024-06,3419.0,Agmarknet APMC Live Feed
+Pearl Millet (Bajra),APMC Madurai,2024-07,2714.0,Agmarknet APMC Live Feed
+Ragi (Finger Millet),APMC Salem,2024-08,3477.0,Agmarknet APMC Live Feed
+Chickpea (Gram),APMC Raichur,2024-09,4955.0,Agmarknet APMC Live Feed
+Pigeon Pea (Tur),APMC Nashik,2024-10,6384.0,Agmarknet APMC Live Feed
+Black Gram (Urad),APMC Pune,2024-11,6179.0,Agmarknet APMC Live Feed
+Green Gram (Moong),APMC Indore,2024-12,8101.0,Agmarknet APMC Live Feed
+Tomato,APMC Guntur,2025-01,563.0,Agmarknet APMC Live Feed
+Onion,APMC Karnal,2025-02,2217.0,Agmarknet APMC Live Feed
+Potato,APMC Coimbatore,2025-03,1870.0,Agmarknet APMC Live Feed
+Rice,APMC Thanjavur,2025-04,2330.0,Agmarknet APMC Live Feed
+Wheat,APMC Madurai,2025-05,2499.0,Agmarknet APMC Live Feed
+Cotton,APMC Salem,2025-06,6586.0,Agmarknet APMC Live Feed
+Maize,APMC Raichur,2024-01,2131.0,Agmarknet APMC Live Feed
+Groundnut,APMC Nashik,2024-02,5820.0,Agmarknet APMC Live Feed
+Soybean,APMC Pune,2024-03,5244.0,Agmarknet APMC Live Feed
+Sugarcane,APMC Indore,2024-04,2956.0,Agmarknet APMC Live Feed
+Sorghum (Jowar),APMC Guntur,2024-05,3288.0,Agmarknet APMC Live Feed
+Pearl Millet (Bajra),APMC Karnal,2024-06,2684.0,Agmarknet APMC Live Feed
+Ragi (Finger Millet),APMC Coimbatore,2024-07,3910.0,Agmarknet APMC Live Feed
+Chickpea (Gram),APMC Thanjavur,2024-08,6084.0,Agmarknet APMC Live Feed
+Pigeon Pea (Tur),APMC Madurai,2024-09,7759.0,Agmarknet APMC Live Feed
+Black Gram (Urad),APMC Salem,2024-10,6626.0,Agmarknet APMC Live Feed
+Green Gram (Moong),APMC Raichur,2024-11,7850.0,Agmarknet APMC Live Feed
+Tomato,APMC Nashik,2024-12,2023.0,Agmarknet APMC Live Feed
+Onion,APMC Pune,2025-01,3260.0,Agmarknet APMC Live Feed
+Potato,APMC Indore,2025-02,1452.0,Agmarknet APMC Live Feed
+Rice,APMC Guntur,2025-03,2282.0,Agmarknet APMC Live Feed
+Wheat,APMC Karnal,2025-04,1946.0,Agmarknet APMC Live Feed
+Cotton,APMC Coimbatore,2025-05,6877.0,Agmarknet APMC Live Feed
+Maize,APMC Thanjavur,2025-06,1891.0,Agmarknet APMC Live Feed
+Groundnut,APMC Madurai,2024-01,6222.0,Agmarknet APMC Live Feed
+Soybean,APMC Salem,2024-02,5615.0,Agmarknet APMC Live Feed
+Sugarcane,APMC Raichur,2024-03,2924.0,Agmarknet APMC Live Feed
+Sorghum (Jowar),APMC Nashik,2024-04,3266.0,Agmarknet APMC Live Feed
+Pearl Millet (Bajra),APMC Pune,2024-05,2663.0,Agmarknet APMC Live Feed
+Ragi (Finger Millet),APMC Indore,2024-06,3929.0,Agmarknet APMC Live Feed
+Chickpea (Gram),APMC Guntur,2024-07,5041.0,Agmarknet APMC Live Feed
+Pigeon Pea (Tur),APMC Karnal,2024-08,6899.0,Agmarknet APMC Live Feed
+Black Gram (Urad),APMC Coimbatore,2024-09,6855.0,Agmarknet APMC Live Feed
+Green Gram (Moong),APMC Thanjavur,2024-10,8812.0,Agmarknet APMC Live Feed
+Tomato,APMC Madurai,2024-11,1658.0,Agmarknet APMC Live Feed
+Onion,APMC Salem,2024-12,1688.0,Agmarknet APMC Live Feed
+Potato,APMC Raichur,2025-01,1550.0,Agmarknet APMC Live Feed
+Rice,APMC Nashik,2025-02,2116.0,Agmarknet APMC Live Feed
+Wheat,APMC Pune,2025-03,2576.0,Agmarknet APMC Live Feed
+Cotton,APMC Indore,2025-04,8005.0,Agmarknet APMC Live Feed
+Maize,APMC Guntur,2025-05,2212.0,Agmarknet APMC Live Feed
+Groundnut,APMC Karnal,2025-06,5448.0,Agmarknet APMC Live Feed
+Soybean,APMC Coimbatore,2024-01,5151.0,Agmarknet APMC Live Feed
+Sugarcane,APMC Thanjavur,2024-02,3113.0,Agmarknet APMC Live Feed
+Sorghum (Jowar),APMC Madurai,2024-03,3161.0,Agmarknet APMC Live Feed
+Pearl Millet (Bajra),APMC Salem,2024-04,2474.0,Agmarknet APMC Live Feed
+Ragi (Finger Millet),APMC Raichur,2024-05,3812.0,Agmarknet APMC Live Feed
+Chickpea (Gram),APMC Nashik,2024-06,5667.0,Agmarknet APMC Live Feed
+Pigeon Pea (Tur),APMC Pune,2024-07,7940.0,Agmarknet APMC Live Feed
+Black Gram (Urad),APMC Indore,2024-08,6546.0,Agmarknet APMC Live Feed
+Green Gram (Moong),APMC Guntur,2024-09,8218.0,Agmarknet APMC Live Feed
+Tomato,APMC Karnal,2024-10,3971.0,Agmarknet APMC Live Feed

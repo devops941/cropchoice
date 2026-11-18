@@ -1,0 +1,41 @@
+criteria:
+  water:
+    name: "Water Demand"
+    description: "Crop water requirement per hectare or water stress ratio"
+    direction: "cost"
+    unit: "mm/season"
+    default_weight: 0.25
+  soil:
+    name: "Soil Suitability"
+    description: "FAO trapezoidal soil suitability index based on pH, EC, OC, texture, drainage"
+    direction: "benefit"
+    unit: "score (0-1)"
+    default_weight: 0.25
+  return:
+    name: "Expected Return"
+    description: "Net revenue per hectare (expected price * yield - cost of cultivation)"
+    direction: "benefit"
+    unit: "INR/ha"
+    default_weight: 0.25
+  variability:
+    name: "Price Variability"
+    description: "Coefficient of variation of historical monthly modal prices"
+    direction: "cost"
+    unit: "CV ratio"
+    default_weight: 0.25
+optional_criteria:
+  labour:
+    name: "Labour Requirement"
+    direction: "cost"
+    unit: "person-days/ha"
+    default_weight: 0.0
+  duration:
+    name: "Crop Duration"
+    direction: "cost"
+    unit: "days"
+    default_weight: 0.0
+  profit_per_water:
+    name: "Profit per Water Unit"
+    direction: "benefit"
+    unit: "INR/m3"
+    default_weight: 0.0

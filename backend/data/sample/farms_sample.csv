@@ -1,0 +1,4 @@
+name,land_ha,season,ph,ec,oc,n,p,k,texture,drainage,rainfall_mm,effective_rainfall_pct,irrigation_m3,budget_inr,labour_person_days
+Green Valley Farm,5.0,kharif,6.8,0.5,0.85,290,24,320,loam,good,680,70,18000,380000,320
+Cauvery Basin Land,8.5,kharif,7.4,0.9,0.70,260,18,290,clay_loam,moderate,720,75,28000,550000,450
+Dryland Horizon Farm,4.0,rabi,6.2,0.4,0.45,210,14,240,sandy_loam,good,350,60,8000,220000,200

@@ -1,0 +1,34 @@
+texture_classes:
+  sandy: "Sandy"
+  loamy_sand: "Loamy Sand"
+  sandy_loam: "Sandy Loam"
+  loam: "Loam"
+  silt_loam: "Silt Loam"
+  silt: "Silt"
+  clay_loam: "Clay Loam"
+  sandy_clay: "Sandy Clay"
+  silty_clay: "Silty Clay"
+  clay: "Clay"
+
+drainage_classes:
+  poor: "Poorly Drained"
+  moderate: "Moderately Well Drained"
+  good: "Well Drained"
+  excessive: "Excessively Drained"
+
+default_soil_ranges:
+  ph:
+    abs_min: 5.0
+    opt_min: 6.0
+    opt_max: 7.5
+    abs_max: 8.5
+  ec:
+    abs_min: 0.0
+    opt_min: 0.0
+    opt_max: 2.0
+    abs_max: 4.0
+  oc:
+    abs_min: 0.2
+    opt_min: 0.5
+    opt_max: 1.5
+    abs_max: 3.0

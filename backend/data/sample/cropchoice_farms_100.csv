@@ -1,0 +1,101 @@
+name,land_ha,season,ph,ec,oc,n,p,k,texture,drainage,rainfall_mm,effective_rainfall_pct,irrigation_m3,budget_inr,labour_person_days
+Cauvery Delta Parcel #001 (Thanjavur),3.9,rabi,7.0,0.91,1.27,241.3,19.6,322.2,clay_loam,moderate,773.0,77.0,16753.0,299973.0,265.0
+Kongu Highland Parcel #002 (Coimbatore),14.0,kharif,7.16,0.61,1.05,242.2,29.1,296.4,loam,good,876.0,75.0,63823.0,858294.0,736.0
+Siruvani Valley Parcel #003 (Tiruppur),14.9,rabi,7.9,0.91,0.57,267.4,24.9,269.7,sandy_loam,good,733.0,78.0,68658.0,1077608.0,682.0
+Vaigai Basin Parcel #004 (Madurai),7.9,kharif,6.93,0.45,1.3,291.0,29.9,292.3,clay_loam,poor,871.0,78.0,39112.0,528861.0,480.0
+Shevaroy Foothills Parcel #005 (Salem),15.5,rabi,7.12,1.43,0.96,318.6,25.2,350.2,loam,good,877.0,79.0,65820.0,1164275.0,1031.0
+Tungabhadra Agri-Zone Parcel #006 (Raichur),9.5,kharif,6.97,0.6,1.3,298.9,23.3,299.8,clay,poor,922.0,80.0,40767.0,682042.0,618.0
+Deccan Plateau Parcel #007 (Dharwad),6.9,rabi,7.54,0.9,0.93,327.3,22.9,270.0,clay_loam,moderate,658.0,65.0,31128.0,503136.0,405.0
+Krishna Delta Parcel #008 (Guntur),16.8,kharif,6.75,0.57,1.12,281.3,28.3,304.5,clay,poor,724.0,75.0,54890.0,1070195.0,987.0
+Godavari Belt Parcel #009 (Warangal),9.0,rabi,7.39,1.41,0.73,331.4,18.9,292.4,loam,good,841.0,79.0,40474.0,738881.0,505.0
+Godavari Black Soil Parcel #010 (Nashik),5.1,kharif,7.64,0.51,1.32,240.1,23.2,312.9,clay_loam,good,885.0,74.0,18348.0,298985.0,236.0
+Western Ghats Terrace Parcel #011 (Pune),10.7,rabi,6.58,1.18,0.82,230.6,26.6,317.6,loam,good,920.0,78.0,49001.0,889442.0,657.0
+Malwa Plateau Parcel #012 (Indore),4.1,kharif,7.18,1.11,0.76,276.0,18.6,243.0,clay,poor,863.0,74.0,17283.0,273520.0,203.0
+Narmada Valley Parcel #013 (Hoshangabad),14.9,rabi,6.78,1.4,0.85,238.1,29.3,329.9,clay,moderate,924.0,79.0,48442.0,1032283.0,976.0
+Indo-Gangetic Plain Parcel #014 (Karnal),9.2,kharif,7.75,0.9,0.92,298.0,18.7,320.5,loam,good,633.0,74.0,37882.0,570398.0,610.0
+Sutlej Basin Parcel #015 (Ludhiana),8.4,rabi,6.45,1.36,0.54,289.9,29.4,296.8,sandy,good,852.0,68.0,38824.0,683210.0,411.0
+Cauvery Delta Parcel #016 (Thanjavur),5.5,kharif,7.69,1.33,0.62,302.7,19.0,266.4,clay_loam,poor,763.0,78.0,21815.0,333388.0,276.0
+Kongu Highland Parcel #017 (Coimbatore),9.4,rabi,7.9,1.25,0.76,249.5,24.3,295.6,loam,good,761.0,73.0,35228.0,543668.0,483.0
+Siruvani Valley Parcel #018 (Tiruppur),17.3,kharif,7.68,1.06,0.87,316.2,29.6,334.0,loam,good,934.0,70.0,60784.0,1243179.0,1076.0
+Vaigai Basin Parcel #019 (Madurai),10.6,rabi,6.3,1.14,1.0,292.5,19.4,270.1,clay_loam,moderate,657.0,73.0,36071.0,666861.0,781.0
+Shevaroy Foothills Parcel #020 (Salem),3.7,kharif,6.21,0.74,1.22,301.1,17.7,273.3,loam,good,785.0,66.0,18735.0,221414.0,195.0
+Tungabhadra Agri-Zone Parcel #021 (Raichur),8.6,rabi,7.72,1.2,0.87,231.7,17.5,223.9,loam,poor,599.0,75.0,37435.0,714517.0,477.0
+Deccan Plateau Parcel #022 (Dharwad),14.5,kharif,7.19,1.07,1.05,331.7,21.1,256.7,clay_loam,moderate,735.0,80.0,71874.0,1096112.0,1027.0
+Krishna Delta Parcel #023 (Guntur),12.9,rabi,7.76,0.78,1.35,269.2,27.8,294.2,clay,moderate,559.0,75.0,48751.0,1080356.0,890.0
+Godavari Belt Parcel #024 (Warangal),14.3,kharif,6.67,1.34,0.99,267.7,25.0,342.7,loam,moderate,595.0,74.0,49143.0,840418.0,795.0
+Godavari Black Soil Parcel #025 (Nashik),12.4,rabi,7.28,0.38,1.02,269.2,22.1,260.7,clay_loam,good,718.0,68.0,42785.0,883969.0,804.0
+Western Ghats Terrace Parcel #026 (Pune),17.0,kharif,7.33,0.79,0.73,246.2,16.4,267.1,loam,good,742.0,69.0,65101.0,1416556.0,1068.0
+Malwa Plateau Parcel #027 (Indore),10.8,rabi,7.27,1.41,0.96,259.2,26.1,348.3,clay_loam,moderate,677.0,75.0,34806.0,910914.0,638.0
+Narmada Valley Parcel #028 (Hoshangabad),12.9,kharif,7.65,1.37,1.32,273.9,31.6,381.7,clay,good,643.0,77.0,50147.0,787279.0,719.0
+Indo-Gangetic Plain Parcel #029 (Karnal),12.2,rabi,7.09,0.87,1.21,293.9,19.0,326.8,loam,good,612.0,78.0,62231.0,968834.0,855.0
+Sutlej Basin Parcel #030 (Ludhiana),14.7,kharif,7.25,0.44,0.84,310.4,18.2,345.7,clay,good,950.0,65.0,53423.0,1182782.0,918.0
+Cauvery Delta Parcel #031 (Thanjavur),11.2,rabi,7.82,0.77,1.37,286.8,26.3,246.9,clay_loam,moderate,754.0,66.0,52250.0,728093.0,592.0
+Kongu Highland Parcel #032 (Coimbatore),13.8,kharif,7.29,0.56,1.31,262.5,20.6,242.8,loam,good,705.0,80.0,61543.0,1109786.0,889.0
+Siruvani Valley Parcel #033 (Tiruppur),7.7,rabi,7.49,1.2,1.29,289.1,27.6,225.0,clay,good,676.0,67.0,25078.0,450457.0,501.0
+Vaigai Basin Parcel #034 (Madurai),13.3,kharif,7.48,1.28,0.56,263.3,24.5,321.9,clay_loam,moderate,649.0,67.0,51239.0,774350.0,933.0
+Shevaroy Foothills Parcel #035 (Salem),3.2,rabi,6.57,0.68,0.61,282.2,24.0,314.5,loam,good,649.0,70.0,15458.0,264098.0,177.0
+Tungabhadra Agri-Zone Parcel #036 (Raichur),14.9,kharif,7.5,0.64,1.1,248.5,22.9,315.5,loam,good,679.0,78.0,67260.0,1039958.0,811.0
+Deccan Plateau Parcel #037 (Dharwad),5.1,rabi,6.93,1.3,1.33,313.5,21.6,361.4,clay_loam,moderate,786.0,68.0,20825.0,367185.0,342.0
+Krishna Delta Parcel #038 (Guntur),8.9,kharif,6.69,0.48,0.74,325.3,20.2,312.7,clay,moderate,657.0,70.0,31034.0,695737.0,472.0
+Godavari Belt Parcel #039 (Warangal),9.3,rabi,6.82,0.37,1.14,304.2,21.4,335.5,sandy,good,919.0,79.0,45521.0,777311.0,605.0
+Godavari Black Soil Parcel #040 (Nashik),10.3,kharif,6.86,1.06,0.55,274.0,18.8,265.4,clay_loam,poor,831.0,67.0,44886.0,755519.0,721.0
+Western Ghats Terrace Parcel #041 (Pune),14.8,rabi,7.63,0.88,0.51,313.3,26.2,332.3,loam,good,927.0,70.0,70441.0,1165091.0,895.0
+Malwa Plateau Parcel #042 (Indore),12.1,kharif,6.24,1.11,0.99,231.3,17.5,276.1,sandy,moderate,638.0,72.0,53387.0,727492.0,657.0
+Narmada Valley Parcel #043 (Hoshangabad),11.1,rabi,7.38,1.1,1.0,241.9,20.3,291.3,clay,moderate,624.0,76.0,57465.0,939637.0,803.0
+Indo-Gangetic Plain Parcel #044 (Karnal),12.6,kharif,6.72,0.7,0.93,283.7,21.2,262.5,loam,poor,807.0,67.0,52433.0,831419.0,883.0
+Sutlej Basin Parcel #045 (Ludhiana),5.2,rabi,6.59,1.28,0.86,254.0,16.9,289.8,clay,good,576.0,76.0,23516.0,392401.0,353.0
+Cauvery Delta Parcel #046 (Thanjavur),6.8,kharif,6.97,0.45,0.96,287.5,21.2,274.0,clay_loam,moderate,686.0,68.0,35208.0,550154.0,342.0
+Kongu Highland Parcel #047 (Coimbatore),6.1,rabi,7.81,1.31,0.97,272.1,17.7,323.6,loam,good,636.0,72.0,22078.0,428470.0,371.0
+Siruvani Valley Parcel #048 (Tiruppur),14.7,kharif,6.59,1.31,0.94,291.5,29.4,275.4,sandy,good,949.0,71.0,65128.0,1046240.0,729.0
+Vaigai Basin Parcel #049 (Madurai),10.8,rabi,7.86,1.15,0.62,319.7,26.5,230.4,clay_loam,moderate,817.0,66.0,51613.0,898875.0,544.0
+Shevaroy Foothills Parcel #050 (Salem),6.3,kharif,7.07,0.74,0.91,250.5,16.9,251.6,loam,good,612.0,75.0,26331.0,449707.0,289.0
+Tungabhadra Agri-Zone Parcel #051 (Raichur),10.2,rabi,7.7,0.45,1.11,274.7,30.4,244.8,clay_loam,poor,753.0,72.0,33827.0,669026.0,717.0
+Deccan Plateau Parcel #052 (Dharwad),15.0,kharif,6.56,1.18,0.65,251.0,29.1,291.9,clay_loam,poor,723.0,77.0,53120.0,926094.0,1111.0
+Krishna Delta Parcel #053 (Guntur),5.4,rabi,6.39,1.44,0.88,276.5,29.7,339.9,clay,moderate,937.0,74.0,22037.0,450564.0,341.0
+Godavari Belt Parcel #054 (Warangal),16.1,kharif,6.48,0.56,1.18,268.9,26.9,336.9,loam,good,596.0,68.0,65481.0,1319949.0,1191.0
+Godavari Black Soil Parcel #055 (Nashik),8.8,rabi,7.08,0.51,1.31,299.8,20.3,345.7,clay_loam,good,709.0,72.0,36260.0,556095.0,490.0
+Western Ghats Terrace Parcel #056 (Pune),3.7,kharif,6.36,0.59,0.82,271.5,26.1,228.2,loam,good,829.0,73.0,17426.0,310874.0,175.0
+Malwa Plateau Parcel #057 (Indore),7.5,rabi,7.59,0.93,0.98,240.8,20.4,226.3,clay,moderate,786.0,66.0,37838.0,539485.0,424.0
+Narmada Valley Parcel #058 (Hoshangabad),12.3,kharif,7.13,0.85,0.93,232.4,30.4,242.8,clay,moderate,592.0,66.0,52515.0,770576.0,912.0
+Indo-Gangetic Plain Parcel #059 (Karnal),14.0,rabi,6.23,1.01,0.61,336.0,30.5,341.9,loam,good,673.0,72.0,53823.0,1146594.0,920.0
+Sutlej Basin Parcel #060 (Ludhiana),10.2,kharif,7.63,0.81,0.94,295.5,23.0,350.7,clay,good,785.0,74.0,42490.0,566003.0,748.0
+Cauvery Delta Parcel #061 (Thanjavur),8.2,rabi,6.16,0.86,0.63,256.5,24.3,265.4,clay_loam,moderate,723.0,76.0,26671.0,599145.0,497.0
+Kongu Highland Parcel #062 (Coimbatore),17.3,kharif,6.32,0.76,0.7,238.4,18.7,288.9,loam,good,594.0,67.0,89612.0,1159576.0,781.0
+Siruvani Valley Parcel #063 (Tiruppur),2.8,rabi,7.45,0.54,0.74,271.2,20.1,379.2,clay_loam,good,565.0,76.0,12493.0,213861.0,136.0
+Vaigai Basin Parcel #064 (Madurai),10.8,kharif,6.16,1.41,1.38,306.3,29.5,307.6,clay_loam,moderate,924.0,79.0,54046.0,907441.0,697.0
+Shevaroy Foothills Parcel #065 (Salem),17.5,rabi,6.18,0.45,1.09,260.7,16.1,325.0,loam,good,567.0,79.0,58496.0,1330369.0,1074.0
+Tungabhadra Agri-Zone Parcel #066 (Raichur),12.2,kharif,7.15,0.61,1.24,289.6,19.7,286.8,sandy,poor,585.0,65.0,49130.0,874453.0,710.0
+Deccan Plateau Parcel #067 (Dharwad),12.0,rabi,6.41,0.53,0.68,313.2,22.4,387.2,clay_loam,moderate,812.0,72.0,38855.0,686754.0,811.0
+Krishna Delta Parcel #068 (Guntur),15.8,kharif,7.5,1.26,0.93,306.3,27.0,274.8,clay,poor,748.0,67.0,50608.0,1048903.0,1169.0
+Godavari Belt Parcel #069 (Warangal),12.1,rabi,7.31,0.72,1.35,239.2,26.9,223.6,clay,good,651.0,67.0,59960.0,1007945.0,760.0
+Godavari Black Soil Parcel #070 (Nashik),11.2,kharif,7.89,0.55,1.17,231.2,16.5,376.4,clay_loam,good,620.0,72.0,38015.0,839267.0,756.0
+Western Ghats Terrace Parcel #071 (Pune),4.5,rabi,7.82,1.38,0.93,237.4,16.1,309.7,loam,good,609.0,79.0,14583.0,329650.0,331.0
+Malwa Plateau Parcel #072 (Indore),12.0,kharif,6.9,0.48,0.7,265.7,29.0,363.8,clay,poor,931.0,72.0,49056.0,998481.0,647.0
+Narmada Valley Parcel #073 (Hoshangabad),9.1,rabi,7.22,0.87,1.27,320.0,17.6,313.1,clay,moderate,632.0,80.0,34479.0,767688.0,681.0
+Indo-Gangetic Plain Parcel #074 (Karnal),5.6,kharif,7.35,0.71,1.22,255.3,18.1,277.0,loam,good,765.0,68.0,24070.0,461212.0,342.0
+Sutlej Basin Parcel #075 (Ludhiana),13.1,rabi,6.73,1.36,0.72,286.0,16.6,325.6,clay,good,628.0,68.0,53199.0,948623.0,764.0
+Cauvery Delta Parcel #076 (Thanjavur),12.2,kharif,7.33,1.02,1.16,318.0,24.2,315.5,clay_loam,moderate,885.0,68.0,55904.0,993762.0,872.0
+Kongu Highland Parcel #077 (Coimbatore),17.2,rabi,7.02,1.23,1.25,297.6,21.6,388.3,loam,good,850.0,73.0,55504.0,1217252.0,974.0
+Siruvani Valley Parcel #078 (Tiruppur),15.7,kharif,7.54,0.97,0.84,325.0,29.8,225.0,sandy_loam,good,644.0,68.0,69638.0,1086228.0,1090.0
+Vaigai Basin Parcel #079 (Madurai),9.0,rabi,6.44,0.38,0.58,241.2,19.5,240.9,clay_loam,moderate,791.0,75.0,46684.0,664088.0,517.0
+Shevaroy Foothills Parcel #080 (Salem),7.0,kharif,6.11,1.33,1.19,302.5,23.4,290.4,loam,moderate,807.0,77.0,25069.0,552530.0,496.0
+Tungabhadra Agri-Zone Parcel #081 (Raichur),11.5,rabi,6.32,0.73,0.63,281.3,29.7,236.9,sandy_loam,poor,949.0,77.0,46542.0,959297.0,549.0
+Deccan Plateau Parcel #082 (Dharwad),13.0,kharif,6.86,1.44,0.9,236.7,23.6,347.0,clay_loam,moderate,949.0,71.0,52732.0,741788.0,863.0
+Krishna Delta Parcel #083 (Guntur),10.4,rabi,6.86,0.74,0.65,324.2,25.6,354.5,clay,moderate,653.0,77.0,49627.0,788797.0,582.0
+Godavari Belt Parcel #084 (Warangal),16.0,kharif,6.25,1.2,0.74,277.0,25.8,318.3,loam,moderate,644.0,77.0,67960.0,1133233.0,841.0
+Godavari Black Soil Parcel #085 (Nashik),10.9,rabi,6.55,0.86,0.87,323.8,20.2,340.3,clay_loam,good,859.0,74.0,38433.0,865930.0,592.0
+Western Ghats Terrace Parcel #086 (Pune),6.2,kharif,6.3,1.02,0.5,251.8,25.5,338.5,loam,good,841.0,79.0,21363.0,403578.0,399.0
+Malwa Plateau Parcel #087 (Indore),9.4,rabi,6.78,0.47,0.84,320.6,22.9,335.6,sandy,moderate,784.0,74.0,36815.0,731497.0,532.0
+Narmada Valley Parcel #088 (Hoshangabad),14.7,kharif,7.51,0.36,0.87,234.8,16.4,340.5,clay,moderate,766.0,73.0,48647.0,1147915.0,852.0
+Indo-Gangetic Plain Parcel #089 (Karnal),8.1,rabi,7.75,1.4,0.73,252.7,16.9,258.9,loam,good,570.0,71.0,40005.0,595873.0,475.0
+Sutlej Basin Parcel #090 (Ludhiana),10.6,kharif,7.24,0.41,0.61,326.2,19.7,338.1,sandy,good,577.0,67.0,50727.0,900639.0,755.0
+Cauvery Delta Parcel #091 (Thanjavur),13.5,rabi,6.17,0.83,1.25,310.9,28.1,366.6,clay_loam,moderate,714.0,71.0,61463.0,1063969.0,685.0
+Kongu Highland Parcel #092 (Coimbatore),8.6,kharif,6.37,1.05,1.39,248.1,22.4,228.3,loam,good,731.0,74.0,41647.0,586801.0,551.0
+Siruvani Valley Parcel #093 (Tiruppur),6.6,rabi,7.51,1.23,0.89,259.7,27.8,309.1,loam,good,610.0,70.0,31191.0,499566.0,303.0
+Vaigai Basin Parcel #094 (Madurai),3.6,kharif,6.94,0.43,0.85,238.2,31.9,282.4,clay_loam,moderate,818.0,69.0,13096.0,234740.0,172.0
+Shevaroy Foothills Parcel #095 (Salem),10.6,rabi,6.3,0.95,1.12,281.0,21.6,353.3,loam,good,605.0,67.0,45629.0,800233.0,601.0
+Tungabhadra Agri-Zone Parcel #096 (Raichur),9.5,kharif,6.44,1.19,1.34,282.1,30.6,321.2,sandy,poor,799.0,69.0,49047.0,674789.0,709.0
+Deccan Plateau Parcel #097 (Dharwad),7.5,rabi,7.78,1.14,0.93,331.4,30.7,245.8,clay_loam,moderate,732.0,78.0,38231.0,573085.0,384.0
+Krishna Delta Parcel #098 (Guntur),4.0,kharif,7.84,1.25,0.56,264.8,20.8,385.1,clay,moderate,831.0,77.0,20208.0,254931.0,232.0
+Godavari Belt Parcel #099 (Warangal),12.5,rabi,7.79,0.36,1.39,252.2,26.0,274.1,clay_loam,good,651.0,80.0,60957.0,943630.0,765.0
+Godavari Black Soil Parcel #100 (Nashik),5.5,kharif,6.74,1.09,1.15,333.0,23.8,292.9,clay_loam,poor,800.0,70.0,21594.0,391869.0,289.0
